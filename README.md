@@ -6,6 +6,7 @@ User can search for Users, Repos and Topics from the Github API, and paginate th
 ## App address
 
 Visit the deployed takehome test at https://thisdot-takehome-react.herokuapp.com/.
+
 ## Future Enhancements
 
 Individual user and repo API searches for Repo, Commit, Star stats.
