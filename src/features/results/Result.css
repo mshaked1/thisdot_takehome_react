@@ -1,0 +1,45 @@
+.result {
+    margin-bottom: 1rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: .5rem;
+    flex-basis: 45%;
+    font-size: 14px;
+}
+
+.result:nth-child(odd) {
+    margin-right: 1rem;
+}
+
+@media only screen and (min-width: 864px) {
+    .result {
+        flex-basis: 30%;
+        margin-right: .5rem;
+    }
+
+    .result:nth-child(odd) {
+        margin-right: .5rem;
+    }
+}
+
+.result div {
+    margin-bottom: .25rem;
+}
+
+.result-name {
+    font-size: 24px;
+    margin-bottom: .5rem;
+}
+
+.result img {
+    vertical-align: middle;
+    padding-right: 1rem;
+}
+
+.result a {
+    color: black;
+}
+
+.result a:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.search-component {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.search-container {
+    margin-bottom: 1rem;
+}
+
+.search-form,
+.search-type {
+    margin-right: 1rem;
+}
